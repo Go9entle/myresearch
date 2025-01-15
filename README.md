@@ -14,8 +14,9 @@ The main research direction is the stochastic control problem of pensions.
   <summary>click it</summary>
 But there is nothing left here.
 </details>
----
+
+----
 
 Below is my report page
-[CDC report 20250125](go9entle.github.io/myresearch/CDC.html)
+[CDC report 20250125](/CDC.html)
 
