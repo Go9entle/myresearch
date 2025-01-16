@@ -1,6 +1,6 @@
 # my research page
 
->[!NOTE]  
+>[!NOTE]
 >My name is Guo Zhentao (Gogentle), and I am currently a graduate student at the School of Statistics, Renmin University of China.  
 >I am from Rizhao City, Shandong Province.  
 >I attended Rizhao Experimental Primary School for primary school,  
@@ -18,5 +18,5 @@ But there is nothing left here.
 ----
 
 Below is my report page
-[CDC report 20250125](/CDC.html)
+[20250124 CDC report](/CDC.html)
 
