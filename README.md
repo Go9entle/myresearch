@@ -1,11 +1,12 @@
 # gogentle's research page
 
->:alien:   
->I am Guo Zhentao (Gogentle), and currently a graduate student at the School of Statistics, Renmin University of China.  
->I am from Rizhao City, Shandong Province.  
->I attended Rizhao Experimental Primary School for primary school,  
->Rizhao Beijing Road Middle School for junior high school,  
->Rizhao Experimental Senior High School for senior high school, and the School of Mathematics, Shandong University for undergraduate studies.
+>👽       
+>I am Guo Zhentao (Gogentle), and currently a graduate student at the School of Statistics, Renmin University of China, from Rizhao City, Shandong Province.  
+>2008-2014 Rizhao Experimental Primary School    
+>2014-2017 Rizhao Beijing Road Middle School     
+>2017-2020 Rizhao Experimental Senior High School
+>2020-2024 School of Mathematics, Shandong University  
+>2024-now  School of Statistics, Renmin University of China  
 
 This page is used to record my research and study at the School of Statistics of Renmin University of China.  
 The main research direction is the stochastic control problem of pensions.  
