@@ -1,10 +1,10 @@
 # gogentle's research page
 
 >👽       
->I am Guo Zhentao (Gogentle), and currently a graduate student at the School of Statistics, Renmin University of China, from Rizhao City, Shandong Province.  
+>My name is Guo Zhentao (Gogentle), from Rizhao City, Shandong Province and I am currently a graduate student at the School of Statistics, Renmin University of China.
 >2008-2014 Rizhao Experimental Primary School    
 >2014-2017 Rizhao Beijing Road Middle School     
->2017-2020 Rizhao Experimental Senior High School
+>2017-2020 Rizhao Experimental Senior High School  
 >2020-2024 School of Mathematics, Shandong University  
 >2024-now  School of Statistics, Renmin University of China  
 
