@@ -19,6 +19,34 @@ But there is nothing left here.
 
 ----
 
-Below is my report page
+Below is my report page  
 [20250124 CDC report](/CDC.html)
+
+
+
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>红色条边框示例</title>
+    <style>
+        .container {
+            width: 300px; /* 设置宽度 */
+            height: 200px; /* 设置高度 */
+            border-left: 10px solid red; /* 左边红色条 */
+            border-radius: 15px; /* 圆角 */
+            box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.5); /* 阴影 */
+            background-color: transparent; /* 透明背景 */
+            padding: 20px; /* 内边距 */
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        这是一个带有红色条边框的透明框。
+    </div>
+</body>
+</html>
+
 
