@@ -1,6 +1,6 @@
 # gogentle's research page
 
-<div style="width: 1000px; padding: 20px; border: 10px solid rgba(255, 0, 0, 0.8); border-radius: 50%; box-shadow: 0 0 20px rgba(0, 0, 0, 0.8); background-color: rgba(255, 255, 255, 0.1); display: flex; align-items: center; justify-content: center; margin-bottom: 30px;">
+<div style="width: 600px; padding: 20px; border: 10px solid rgba(255, 0, 0, 0.8); border-radius: 50%; box-shadow: 0 0 10px rgba(0, 0, 0, 0.8); background-color: rgba(255, 255, 255, 0.1); display: flex; align-items: center; justify-content: center; margin-bottom: 50px;">
     <strong style="color: orangered; text-align: center; font-size: 16px;">
         It should be noted that the images are deployed in the GitHub gallery (thanks to 
         <span style="color: blue; font-family: Arial, sans-serif; font-size: 18px;">PicX</span> for its support), 
