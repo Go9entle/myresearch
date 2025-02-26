@@ -9,6 +9,7 @@
     </strong>
 </div>
 
+Welcome to my [bookdown notebook](https://go9entle.github.io/mybookdown).  
 
 >👽       
 >My name is Guo Zhentao (Gogentle), from Rizhao City, Shandong Province and I am currently a graduate student at the School of Statistics, Renmin University of China.  
