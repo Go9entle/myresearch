@@ -31,7 +31,7 @@ But there is nothing left here.
 
 Below is my report page  
 [20250124 CDC report](/CDC.html)
-
+[20250325mean-variance_portfolio_optimization_with_RSMD.pdf](/mean-variance_portfolio_optimization_with_RSMD.pdf).
 
 
 
